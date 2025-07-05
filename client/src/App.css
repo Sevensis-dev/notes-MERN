@@ -1,0 +1,22 @@
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 0;
+  border-bottom: 1px solid #333;
+  margin-bottom: 30px;
+}
+
+.app-title {
+  color: #ffd60a;
+  font-size: 28px;
+  font-weight: 600;
+  margin: 0;
+}
