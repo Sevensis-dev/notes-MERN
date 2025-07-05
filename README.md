@@ -3,10 +3,6 @@
 Для сервера (в папке server создайте файл .env):
 PORT=3001
 MONGODB_URI=mongodb://localhost:27017/notes-app
-JWT_SECRET=ваш_секретный_ключ
-
-Для клиента (в папке client создайте файл .env):
-REACT_APP_API_URL=http://localhost:3001
 
 2. Установите зависимости
 
